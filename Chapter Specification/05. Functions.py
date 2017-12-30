@@ -1,7 +1,7 @@
 # All about functions
 
 # Slide Name
-print("Slide Name: Everything Else:")
+print("Slide Name: Functions:")
 print(), print(), print()
 
 
