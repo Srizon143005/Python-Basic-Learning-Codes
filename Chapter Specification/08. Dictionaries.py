@@ -1,7 +1,7 @@
 # All about dictionaries
 
 # Slide Name
-print("Slide Name: Everything Else:")
+print("Slide Name: Dictionaries:")
 print(), print(), print()
 
 
